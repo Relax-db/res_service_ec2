@@ -1,7 +1,7 @@
 /* eslint-disable global-require */
 /* eslint-disable no-console */
 
-require('newrelic');
+//require('newrelic');
 const cluster = require('cluster');
 const express = require('express');
 const bodyParser = require('body-parser');
